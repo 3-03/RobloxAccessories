@@ -4,8 +4,6 @@
 ![FrozenHornsShowcase](https://github.com/user-attachments/assets/68c58ba5-e1e2-4c06-a99e-2c6ba1e211e5)
 
 
-
-
 # Screenshots:
 
 
@@ -64,6 +62,21 @@ TENTACLESJUNIOR - Tenctacles Junior
 VALKYRIEHELMET(3) - Valkyrie Helmet
 VALKYRIEHELMET(4) - Violet Valkyrie
 VOIDSTAR - Voidstar
+KOTSA - Knight Of The Stygian Abyss
+ASCIIHELMET - Ascii Helmet
+BUNNYEARS - Bunny Ears
+Classicx89sShades - Classicx89's Stylin' Intern Shades
+CTHULHU - Cthulhu
+HARDHAT - Hard Hat
+ICECROWN - The Ice Crown
+IceSkullOfNevermoor - The Ice Skull of Nevermoor
+OrangeNinjaHeadband - Orange Ninja Headband of All Earth's Fire
+Stetson - Red Stetson
+TEAPOT - Teapot
+VEGETABLEHAT - Vegetable hat
+RIDDLINGSKULL - Riddling skull
+SILVERTHRONANTLERS - Silverthron Antlers
+
 ```
 **NECK:**
 ```
