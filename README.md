@@ -10,7 +10,7 @@
 
 
 # Special Thanks:
-Big thanks to YMC_MHZ for his mod MoreHead
+Big thanks to YMC_MHZ for his mod [MoreHead](https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/)\n
 Also want to thank @calypsoyuriscat8601 for that short tutorial!
 
 # Models:
