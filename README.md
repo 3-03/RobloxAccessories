@@ -1,6 +1,11 @@
 # Roblox Accessories
 **We are a regular group of friends who decided to create this add-on for the [MoreHead](https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/) mod in the game R.E.P.O, our mod includes more than 50+ cosmetics**
 
+![FrozenHornsShowcase](https://github.com/user-attachments/assets/68c58ba5-e1e2-4c06-a99e-2c6ba1e211e5)
+
+
+
+
 # Screenshots:
 
 
