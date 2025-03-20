@@ -76,12 +76,19 @@ TEAPOT - Teapot
 VEGETABLEHAT - Vegetable hat
 RIDDLINGSKULL - Riddling skull
 SILVERTHRONANTLERS - Silverthron Antlers
-
+SQLBANDANA - Red Bandana of SQL Injection
+STARSLIDE - ): Star Tailslide
+STEAMPUNKAETHERSPECTACLES - Steampunk Aetherspectacles
+MONOCLE - Monocle
+FLOPPYHAT - Ludicrous Floppy Hat With Unreasonably Large Bow
+BLUESTEELFEDORA - Bluesteel Fedora
+ADURITECLOCKWORKSHADES - Adurite Clockwork Shades
 ```
 **NECK:**
 ```
 PIRATECAPE - Pirate Cape
 SUSSY TITLE - :)  (!!PARTICLES))
+GOLDLIKA_OOF - Goldlika: Oof (!!PARTICLES!!)
 ```
 **BODY:**
 ```
@@ -91,6 +98,18 @@ FORCEFIELD - Force Filed (!!PARTICLES!!)
 JACKPOTROBUXBAG - Jackpot Robux Bag (!!PARTICLES!!)
 SNOWSPARKLE - Snow Queen's Necklace (!!PARTICLES!!)
 TABBYEGG - Tabby Egg (!!HUGE!!)
+BANHAMMER - Ban Hammer
+BLACKCLOAK - Black Cloak
+BLUESTEELBLINGNECKLACE - Bluesteel Bling $$ Necklace
+BLUESTEELWINGS - Bluesteel Wings
+EPICTIE - Epic Tie
+REDCLIFFHEROCAPE - Redcliff Hero Cape
+IMMORTALSWORDVLADS - Immortal Sword Vlads Lament (!!PARTICLES!!)
+IMMORTALSWORDWICKEDHEART - Immortal Sword Wicked Heart (!!PARTICLES!!)
+SPARKLING ANGEL WINGS - Sparkling Angel Wings (!!PARTICLES!!)
+UMAD - Umadbro?
+UNDEAD IMMORTAL SWORD - Infernal Undead Immortal Sword (!!PARTICLES!!)
+CLASSICSWORDTHROWBACK - Classic Swordpack Throwback
 ```
 
 
