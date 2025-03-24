@@ -83,6 +83,30 @@ MONOCLE - Monocle
 FLOPPYHAT - Ludicrous Floppy Hat With Unreasonably Large Bow
 BLUESTEELFEDORA - Bluesteel Fedora
 ADURITECLOCKWORKSHADES - Adurite Clockwork Shades
+ROBLOXVISOR2007 - Roblox Visor 2007
+ROBLOXVISOR2008 - Roblox Visor 2008
+ROBLOXVISOR2009 - Roblox Visor 2009
+ROBLOXVISOR2010 - Roblox Visor 2010
+ROBLOXVISOR2011 - Roblox Visor 2011
+ROBLOXVISOR2012 - Roblox Visor 2012
+ROBLOXVISOR2013 - Roblox Visor 2013
+ROBLOXVISOR2014 - Roblox Visor 2014
+ROBLOXVISOR2015 - Roblox Visor 2015
+ROBLOXVISOR2016 - Roblox Visor 2016
+ROBLOXVISOR2017 - Roblox Visor 2017
+ROBLOXVISOR2018 - Roblox Visor 2018
+ROBLOXVISOR2019 - Roblox Visor 2019
+GOLDCROWNOFOS - Gold Crown of O s
+THANKSGIVINGTURKEYCAP - Thanksgiving Turkey Cap
+PERFECTLYLEGITMATEBUSINESSHAT - Perfectly Legitimate Business Hat
+KUDDLEEKOALA - Kuddle E Koala
+SILVERKINGOFTHENIGHT - Silver King of the Night
+SINISTERQ - Sinister Q
+SCISSORS - Scissors
+ANGRYBIRDSREDSMASK - Angry Birds Reds Mask
+CALLMEHOSTENTATIOUSLYSLYEMPRESSED - Callmehostentatiouslyslyempressed (!!HUGE!!)
+SINISTERS - Sinister S
+SOVIETUSHANKS - Soviet Ushanka
 ```
 **NECK:**
 ```
@@ -111,6 +135,3 @@ UMAD - Umadbro?
 UNDEAD IMMORTAL SWORD - Infernal Undead Immortal Sword (!!PARTICLES!!)
 CLASSICSWORDTHROWBACK - Classic Swordpack Throwback
 ```
-
-
-
